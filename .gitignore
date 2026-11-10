@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.angular/
+target/
+data/
+certs/out/
+certs/trust/
+certs/trust-test/
+certs/*.srl
+certs/trust-tsa/
